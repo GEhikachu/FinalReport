@@ -10,4 +10,4 @@
 空振りや後ろに打ってしまうとゲームオーバーです。
 何球打てるかチャレンジしてみてください。
 
-ここからゲームプレイ(C:\Users\Public\Documents\Unity17\BattingGame)
+ここからゲームプレイ(https://github.com/GEhikachu.github.io/FinalReport/web-gl/)
