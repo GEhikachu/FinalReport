@@ -10,4 +10,4 @@
 空振りや後ろに打ってしまうとゲームオーバーです。
 何球打てるかチャレンジしてみてください。
 
-ここからゲームプレイ(https://github.com/GEhikachu.github.io/FinalReport/web-gl/)
+[ここからゲームプレイ](https://github.com/GEhikachu.github.io/FinalReport/web-gl/)
